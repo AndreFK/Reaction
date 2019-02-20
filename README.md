@@ -70,3 +70,4 @@ We ensure that all releases are deployable as [Docker](https://hub.docker.com/r/
 ### License
 
 Copyright © [GNU General Public License v3.0](./LICENSE.md)
+Test de reaction commerce
